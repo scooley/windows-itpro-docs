@@ -52,6 +52,9 @@ To detach the back of the overhead strap, press the button below each connection
 
 To turn on your HoloLens 2, press the Power button.  The LED lights below the Power button display the battery level.
 
+> [!NOTE]
+> If you're turning on HoloLens 2 for the very first time (right after unboxing), you'll have to hold the power button for 4+ seconds to turn it on.  Next time you turn on your HoloLens, it'll start after a short button press.
+
 ### Power button actions for different power transitions
 
 | To do this | Perform this action and watch for these indicator lights |
